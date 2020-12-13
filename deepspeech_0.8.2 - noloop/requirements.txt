@@ -1,0 +1,18 @@
+certifi==2020.6.20
+click==7.1.2
+deepspeech==0.8.2
+Flask==1.1.2
+Flask-Login==0.5.0
+Flask-SocketIO==4.3.1
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.14.4
+#PyAudio --> PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+python-engineio==3.13.2
+python-socketio==4.6.0
+six==1.15.0
+SpeechRecognition==3.8.1
+Wave==0.0.2
+Werkzeug==1.0.1
+wincertstore==0.2
